@@ -30,37 +30,37 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:**  The little mermaid
+- **Why I chose this movie:**  its one of my favorite Disney movies
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:**  wonder
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  magical world under the sea
+- **Why this element:**  it creates a feeling of wonder and interest because its so beautiful
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  too many characters
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):**  blues and greens
+- **Accent color(s):**  purple and white
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  bright and vibrant
 
 **Composition:**  
-- [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
-- [ ] Object/symbol centered  
-- [ ] Character collage  
+- [ ] Close-up (face/detail)  Ariel looking sad and wanting more
+- [ ] Wide shot (landscape/setting)  Under the sea in her palace
+- [ ] Medium shot (full figure)  Ariel sitting inside a shell
+- [ ] Object/symbol centered  Ariel holding a map of the world
+- [ ] Character collage Ariel is the focus character, and Flounder and Sebastian are next to her
 
 - **Focal point description:**  
 
----
+--- Ariel in her shell in the center
 
 ## Step 2: AI Generation – First Attempts
 *(Commit message: "Documented first two AI attempts")*
@@ -68,7 +68,8 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  make a movie cover from The Little Mermaid with Ariel in the center holding a world map while sitting in a shell bed. Make the scene underwater and the background her amazing colorful blues and green palace. Put Sebastian and flounder next to her
+
 
 - **What worked:**  
 - **What didn't work:**  
