@@ -99,12 +99,12 @@ Keep refining. Try at least two more meaningfully different directions.
 **Attempt 4:**  
 - **My prompt:**  
 give her a fork instead of a map and insert price charming finding her on the beach
-- **What worked:**  
+- **What worked:**  she got a fork and was found by Price Charming
 - **What didn't work:**  
 
 **Final AI Image Selected:** (Which attempt? Why?)  
 
----
+--- I like the 2nd one the most because it is the most detailed and magical
 
 ## Step 4: Photoshop Modifications
 *(Commit message: "Added Photoshop modifications")*
@@ -134,12 +134,15 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 
 **How did your vision evolve?**  
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
+She went from being in the water and in her palace to being out on shore. Her tail transformed into a dress and her flowing hair stayed the same. 
 
 
 **What decision are you most proud of that the AI didn't make for you?**  
+The seashell bed with pearls
 
 
 **What would you do differently next time?**  
+I would spend more time on smaller details
 
 
 ---
