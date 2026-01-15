@@ -71,12 +71,12 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 - **My prompt:**  make a movie cover from The Little Mermaid with Ariel in the center holding a world map while sitting in a shell bed. Make the scene underwater and the background her amazing colorful blues and green palace. Put Sebastian and flounder next to her
 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  it is very magical looking and there is nice details
+- **What didn't work:**  its a little boring and bland coloring
+- **What I'll change for next attempt:**  make it more elaborate
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  make it more colorful and lively with an even more magical background and make her shell bed more elaborate. Add the Little Mermaid title at the bottom
 
 - **What worked:**  
 - **What didn't work:**  
