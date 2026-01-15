@@ -93,12 +93,12 @@ Keep refining. Try at least two more meaningfully different directions.
 - **My prompt:**  now make her be on the beach with legs all dressed up like a princess with no shell and no fish
 
 - **What worked:**  she has legs and is on the beach now
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What didn't work:**  the sea palace is still in the back
+- **What I'll change for next attempt:**  bring price charming in on the beach
 
 **Attempt 4:**  
 - **My prompt:**  
-
+give her a fork instead of a map and insert price charming finding her on the beach
 - **What worked:**  
 - **What didn't work:**  
 
