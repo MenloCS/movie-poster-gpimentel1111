@@ -78,9 +78,9 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 **Attempt 2:**  
 - **My prompt:**  make it more colorful and lively with an even more magical background and make her shell bed more elaborate. Add the Little Mermaid title at the bottom
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  There were more details like the pearls on the bed and more mermaids in the back
+- **What didn't work:**  It wouldn't put the title because its copyrighted
+- **What I'll change for next attempt:**  put Ariel on the beach
 
 ---
 
@@ -90,9 +90,9 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  now make her be on the beach with legs all dressed up like a princess with no shell and no fish
 
-- **What worked:**  
+- **What worked:**  she has legs and is on the beach now
 - **What didn't work:**  
 - **What I'll change for next attempt:**  
 
